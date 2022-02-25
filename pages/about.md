@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 知行合一
+keywords: GaoJulong
 comments: true
 menu: 关于
 permalink: /about/
@@ -16,7 +16,7 @@ permalink: /about/
 {% for website in site.data.social %}
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
-{% if site.url contains 'mazhuang.org' %}
+{% if site.url contains 'gaojulong.com' %}
 {% endif %}
 </ul>
 
