@@ -62,12 +62,12 @@ email: gaojulong@outlook.com
 #    Navigation    #
 # ---------------- #
 navs:
-  -
-    href: /
-    label: 首页
+#  -
+#    href: /
+#    label: 首页
 
   -
-    href: /buy
+    href: /buy/
     label: 购买
 
 
