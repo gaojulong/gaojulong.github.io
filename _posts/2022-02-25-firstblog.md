@@ -6,11 +6,10 @@ description: 环境搭建
 keywords: ESP32, IDF, 墨水屏
 ---
 
-# ESP32-IDF开发基础课程（墨水屏开发案例）
+# ESP-IDF VSCode下环境搭建（墨水屏开发案例一）
 
-<iframe height="400" width="800"  src="//player.bilibili.com/player.html?aid=979086525&bvid=BV1744y1p7mz&cid=509655386&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe height="450" width="700"  src="//player.bilibili.com/player.html?aid=979086525&bvid=BV1744y1p7mz&cid=509655386&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-### 第一节  环境搭建
 
 #### 1.1 VSCode软件安装
 
