@@ -1,9 +1,19 @@
 ---
 layout: post
-title: 青蛙跳台阶的问题——Fibonacci
-categories: Algorithm
-description: 使用 Fibonacci 来解决青蛙跳台阶的问题。
-keywords: 算法，Fibonacci
+title: 环境搭建
+categories: ESP32-IDF
+description: 环境搭建
+keywords: ESP32, IDF, 墨水屏
 ---
 
-这几天正在复习算法，今天在看一篇文章时偶然看到这个题目，想了一下居然没什么思路……（抱歉，实在太菜。)，文章中提示了一个关键词：Fibonacci 数列。然后我又小百度了一下，找了一个具体分析实例，结合两处，这才理清了思路。（汗啊……基础全忘光了，这以后咋办啊……深感担忧……)
+# ESP32-IDF开发基础课程（墨水屏开发案例）
+
+### 第一节  环境搭建
+
+#### 1.1 VSCode软件安装
+
+​		从VSCode官网中根据电脑操作系统，选择适配的软件版本[ [打开网站](https://code.visualstudio.com/download)]。
+
+![image-20220220094830077](../images/ESP32-IDF/image-20220220094830077.png)
+
+​	下载完成后，根据软件提示完成VSCode安装。
