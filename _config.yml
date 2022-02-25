@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: 
+url: https://gaojulong.com
 date_format: "ordinal"
 title: 博客
 subtitle: "公众号：无"
