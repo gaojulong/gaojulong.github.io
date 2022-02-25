@@ -4,9 +4,9 @@
 baseurl:
 url: https://gaojulong.com
 date_format: "ordinal"
-title: 博客
-subtitle: "公众号：无"
-description: "个人博客，公众号：无"
+title: gaojulong.com
+subtitle: "高巨龙"
+description: "高巨龙"
 keywords: 博客, Gaojulong, mzlogin
 timezone: Asia/Shanghai
 encoding: "utf-8"
