@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 环境搭建
+title: ESP-IDF VSCode下环境搭建（墨水屏开发案例一）
 categories: ESP32-IDF
 description: 环境搭建
 keywords: ESP32, IDF, 墨水屏
 ---
 
-# ESP-IDF VSCode下环境搭建（墨水屏开发案例一）
+# 环境搭建
 
 <iframe height="450" width="700"  src="//player.bilibili.com/player.html?aid=979086525&bvid=BV1744y1p7mz&cid=509655386&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
