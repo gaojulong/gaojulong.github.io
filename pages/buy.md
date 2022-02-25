@@ -6,7 +6,4 @@ description: 开源改变世界。
 permalink: /buy/
 ---
 
-{% if site.github.public_repositories != false %}
-{% assign sorted_repos = site.github.public_repositories | sort: 'stargazers_count' | reverse %}
-
-{% endif %}
+### [淘宝店铺](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-10960194006.11.77b54338UCBf04&id=668874810541)  
