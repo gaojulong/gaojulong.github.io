@@ -8,7 +8,7 @@ keywords: ESP32, IDF, 墨水屏
 
 # 环境搭建
 
-##[观看视频](https://www.bilibili.com/video/BV1744y1p7mz?p=2&share_source=copy_web)  
+#### [观看视频](https://www.bilibili.com/video/BV1744y1p7mz?p=2&share_source=copy_web)  
 
 <iframe src="//player.bilibili.com/player.html?aid=979086525&bvid=BV1744y1p7mz&cid=509655386&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
