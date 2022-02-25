@@ -2,15 +2,15 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: gaojulong.com
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 博客
+subtitle: "公众号：无"
+description: "个人博客，公众号：无"
+keywords: 博客, Gaojulong, mzlogin
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: gaojulong/gaojulong.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -51,12 +51,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Gaojulong
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: gaojulong
+location: Shanghai, China
+email: gaojulong@outlook.com
 
 # ---------------- #
 #    Navigation    #
@@ -155,7 +155,7 @@ lazy_load_disqus : false
 # ---------------- #
 simple_jekyll_search:
     # 是否支持全文搜索
-    fulltext: false
+    fulltext: true
     # 最多显示多少条搜索结果
     limit: 10
 
