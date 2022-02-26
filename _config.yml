@@ -51,7 +51,8 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 皖ICP备16017023号
+icp: 皖ICP备16017023号
+author: gaojulong
 organization: 
 organization_url: 
 github_username: gaojulong
